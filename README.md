@@ -13,8 +13,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on course careers course
-- 🌱 I’m currently learning html, css, python.
+- 🔭 I’m currently working on Course Careers course
+- 🌱 I’m currently learning html, css and python.
 - 👯 I’m looking to collaborate with like-minded persons.
 - 🤔 I’m looking for help with tech related portfolio
 
