@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with like-minded persons.
 - 🤔 I’m looking for help with tech related portfolio
 
-<hr>
+#
 
 ### ⚒️ Languages and Tools 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -26,7 +26,13 @@ Here are some ideas to get you started:
 <img align="left" alt="Java" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 
+#
 
+### 📊Stats
+
+![0xbythesecond's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xbythesecond&show_icons=true&theme=radical)
+
+#
 
 
 <!--**0xbythesecond/0xbythesecond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
