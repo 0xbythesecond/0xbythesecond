@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/0xbythesecond/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/0xbythesecond/azure-network-protocols)
+  -  [Azure Cloud Detection Project](https://github.com/0xbythesecond/azure-cloud-detection)
 
 
 Here are some ideas to get you started:
