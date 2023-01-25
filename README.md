@@ -1,5 +1,6 @@
 <h1>Hi, I'm 0xbythesecond, an <a href="https://linkedin.com/in/Josh">IT Professional</a></h1>
 
+<details close>
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
