@@ -1,6 +1,6 @@
 <h1>Hi, I'm 0xbythesecond, an <a href="https://linkedin.com/in/Josh">IT Professional</a></h1>
 
-<details close>
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
@@ -14,12 +14,14 @@
   - [Azure Cloud Detection (Part 2: Getting Data into Sentinel)](https://github.com/0xbythesecond/getting-data-into-sentinel)
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Course Careers course
-- 🌱 I’m currently learning html, css and python.
-- 👯 I’m looking to collaborate with like-minded persons.
-- 🤔 I’m looking for help with tech related portfolio
+<details>
+ <summary><h3> 👨‍💼 I am a work in process</h3></summary>
+  <ul>
+    <li>🔭 I’m currently working on Course Careers course </li>
+<li>🌱 I’m currently learning html, css and python.</li>
+<li>👯 I’m looking to collaborate with like-minded persons.</li>
+<li>🤔 I’m looking for help with tech related portfolio </li>
+  </ul>
 
 #
 
