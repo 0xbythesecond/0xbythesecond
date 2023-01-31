@@ -13,7 +13,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/0xbythesecond/azure-network-protocols)
   - [Azure Cloud Detection Project](https://github.com/0xbythesecond/azure-cloud-detection)
   - [Azure Cloud Detection (Part 2: Getting Data into Sentinel)](https://github.com/0xbythesecond/getting-data-into-sentinel)
-  - [Sentinel Lab Failed Login](https://github.com/0xbythesecond/Sentinel-Lab-Failed-Login)
+  - [Sentinel Lab Failed RDP Login](https://github.com/0xbythesecond/Sentinel-Lab-Failed-Login)
 
 
 <details>
