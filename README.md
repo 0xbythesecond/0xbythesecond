@@ -1,3 +1,4 @@
+<img src="https://www.paliscope.com/wp-content/uploads/2018/04/Gif-animation-hello.gif"/>
 <h1>Hi, I'm 0xbythesecond, an <a href="https://linkedin.com/in/Josh">IT Professional</a></h1>
 
 
