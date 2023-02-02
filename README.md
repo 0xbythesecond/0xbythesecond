@@ -17,7 +17,7 @@
 
 
 <details>
- <summary><h3> 👨‍💼 I am a work in process</h3></summary>
+ <summary><h3> 🧑‍🏭 I am a work in process</h3></summary>
 
 - 🔭 I’m currently working on `Course Careers` course
 - 🌱 I’m currently learning `html, css, python and javascript.`
