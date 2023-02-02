@@ -18,12 +18,12 @@
 
 <details>
  <summary><h3> 👨‍💼 I am a work in process</h3></summary>
-  <ul>
-<li>🔭 I’m currently working on Course Careers course </li>
-<li>🌱 I’m currently learning html, css and python.</li>
-<li>👯 I’m looking to collaborate with like-minded persons.</li>
-<li>🤔 I’m looking for help with tech related portfolio </li>
-  </ul>
+
+- 🔭 I’m currently working on `Course Careers` course
+- 🌱 I’m currently learning `html, css, python and javascript.`
+- 👯 I’m looking to collaborate with `like-minded persons.`
+- 🤔 I’m looking for help with `tech related portfolio and building projects.`
+
 
 #
 
