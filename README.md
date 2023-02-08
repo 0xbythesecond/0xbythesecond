@@ -1,8 +1,9 @@
 <img height="250px" width="1000px" src="https://www.paliscope.com/wp-content/uploads/2018/04/Gif-animation-hello.gif"/>
-<h1>Hi, I'm 0xbythesecond, an <a href="https://linkedin.com/in/Josh">IT Professional</a></h1>
+
+## Hi, I'm 0xbythesecond, an **IT Professional**
 
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+### 👨‍💻 Information Technology Projects:
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/0xbythesecond/osticket-prereqs)
