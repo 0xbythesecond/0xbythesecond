@@ -39,14 +39,16 @@
 
 
 #
-  
+
+    
+<br />
   
 - <b>Notes</b>:
 
   - [10 entry-level IT questions about Active Directory](https://github.com/0xbythesecond/10-questions-AD) 
   - [Common Tools](https://github.com/0xbythesecond/Common-Tools)
-  
 
+  
 ### 📊Stats
 
   
