@@ -16,6 +16,10 @@
   - [Azure Cloud Detection (Part 2: Getting Data into Sentinel)](https://github.com/0xbythesecond/getting-data-into-sentinel)
   - [Sentinel Lab Failed RDP Login](https://github.com/0xbythesecond/Sentinel-Lab-Failed-Login)
 
+### Notes:
+
+- [10 entry-level IT questions about Active Directory](https://github.com/0xbythesecond/10-questions-AD) 
+
 
 <details>
  <summary><h3> 👨‍💼 I am a work in process</h3></summary>
