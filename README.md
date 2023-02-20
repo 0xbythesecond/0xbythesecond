@@ -1,5 +1,5 @@
 <img height="250px" width="1000px" src="https://www.paliscope.com/wp-content/uploads/2018/04/Gif-animation-hello.gif"/>
-![Profile views](https://gpvc.arturio.dev/[0xbythesecond])
+
 
 
 ## Hi, I'm 0xbythesecond, an **IT Professional**
@@ -62,6 +62,8 @@
 
   
 ![0xbythesecond's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xbythesecond&show_icons=true&theme=radical)
+	
+![Profile views](https://gpvc.arturio.dev/0xbythesecond)
 
 #
 
