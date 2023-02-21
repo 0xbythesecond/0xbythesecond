@@ -1,7 +1,3 @@
-<img height="250px" width="1000px" src="https://www.paliscope.com/wp-content/uploads/2018/04/Gif-animation-hello.gif"/>
-
-
-
 ## Hi, I'm 0xbythesecond, an **IT Professional**
 
 
