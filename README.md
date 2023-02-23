@@ -22,7 +22,7 @@
  
 
 - 🎓 I’m a graduate of `Course Careers` Information Technology course
-- 🌱 I’m currently learning `html, css, python and javascript.`
+- 🌱 I’m currently learning `HTML, CSS, Python and Javascript.`
 - 👯 I’m looking to collaborate with `like-minded persons.`
 - 🤔 I’m looking for help with `tech related portfolio and building projects.`
 
