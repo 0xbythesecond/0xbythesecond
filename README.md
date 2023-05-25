@@ -22,9 +22,12 @@
  
 
 - 🎓 I’m a graduate of `Course Careers` Information Technology course
-- 🌱 I’m currently learning `HTML, CSS, Python and Javascript.`
 - 👯 I’m looking to collaborate with `like-minded persons.`
 - 🤔 I’m looking for help with `tech related portfolio and building projects.`
+- 🧠 Continously learing `Azure, Linux, HTML, CSS and Javascript.`
+<img src="https://github.com/0xbythesecond/0xbythesecond/assets/23303634/cdd3c20b-b0ce-4c37-8d09-24d38483d8c9" height="20%" width="20%"/> 
+
+	
 
 
 #
