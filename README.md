@@ -14,6 +14,7 @@
   - [Azure Cloud Detection (Part 2: Getting Data into Sentinel)](https://github.com/0xbythesecond/getting-data-into-sentinel)
   - [Sentinel Lab Failed RDP Login](https://github.com/0xbythesecond/Sentinel-Lab-Failed-Login)
   - [Virtual Networking Deploying Virtual Machine](https://github.com/0xbythesecond/Virtual-Networking-Deploying-Virtual-Machines)
+  - [Azure Firewall](https://github.com/0xbythesecond/Azure-Firewall)
 
 
 
