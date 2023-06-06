@@ -3,11 +3,14 @@
 
 ### 👨‍💻 Information Technology Projects:
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- #### osTicket (Help Desk Ticketing System)
   - [osTicket: Prerequisites and Installation](https://github.com/0xbythesecond/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/0xbythesecond/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/0xbythesecond/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+
+
+- #### Microsoft Azure
+  - [Azure SOC Honeynet Project](https://github.com/0xbythesecond/Azure-SOC-Honeynet-Project)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/0xbythesecond/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/0xbythesecond/azure-network-protocols)
   - [Azure Cloud Detection Project](https://github.com/0xbythesecond/azure-cloud-detection)
