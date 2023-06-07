@@ -61,10 +61,10 @@
   
 ### 📊Stats
 
-  
-![0xbythesecond's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xbythesecond&show_icons=true&theme=radical)
+![0xbythesecond's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xbythesecond&show_icons=true&theme=transparent)  
+<!--![0xbythesecond's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xbythesecond&show_icons=true&theme=radical)-->
 	
-![Profile views](https://gpvc.arturio.dev/0xbythesecond)
+<!--![Profile views](https://gpvc.arturio.dev/0xbythesecond)-->
 
 #
 
