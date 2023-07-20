@@ -2,14 +2,20 @@
 
 
 ### 👨‍💻 Information Technology Projects:
-
-- #### osTicket (Help Desk Ticketing System)
+<details open>
+<summary><img width="150" alt="Ost Ticket Logo" src="https://github.com/0xbythesecond/0xbythesecond/assets/23303634/ff860958-dce6-4a33-bd35-34c697e006e4"/></summary>
+	
   - [osTicket: Prerequisites and Installation](https://github.com/0xbythesecond/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/0xbythesecond/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/0xbythesecond/ticket-lifecycle)
+    
+</details>
 
 
-- #### Microsoft Azure
+<details open>
+<summary><img width="200" alt="Microsoft Azure Logo" src="https://github.com/0xbythesecond/0xbythesecond/assets/23303634/4efd69b2-7308-40cb-b48d-5e726610d472"/>
+</summary>
+	
   - [Azure SOC Honeynet Project](https://github.com/0xbythesecond/Azure-SOC-Honeynet-Project)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/0xbythesecond/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/0xbythesecond/azure-network-protocols)
@@ -18,11 +24,17 @@
   - [Sentinel Lab Failed RDP Login](https://github.com/0xbythesecond/Sentinel-Lab-Failed-Login)
   - [Virtual Networking Deploying Virtual Machine](https://github.com/0xbythesecond/Virtual-Networking-Deploying-Virtual-Machines)
   - [Azure Firewall](https://github.com/0xbythesecond/Azure-Firewall)
+  - [Securing Azure SQL Database](https://github.com/0xbythesecond/Securing-Azure-SQL-Database/)
+
+ </details>   
+ 
+- #### Vulnerability Management Project:
+  - [OpenVAS Vulnerability Project](https://github.com/0xbythesecond/OpenVAS-Project)
 
 
 
 
-<details>
+<details closed>
  <summary><h3> 👨‍💼 I am a work in process</h3></summary>
  
 
