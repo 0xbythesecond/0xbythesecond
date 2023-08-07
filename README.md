@@ -25,6 +25,7 @@
   - [Virtual Networking Deploying Virtual Machine](https://github.com/0xbythesecond/Virtual-Networking-Deploying-Virtual-Machines)
   - [Azure Firewall](https://github.com/0xbythesecond/Azure-Firewall)
   - [Securing Azure SQL Database](https://github.com/0xbythesecond/Securing-Azure-SQL-Database/)
+  - [Azure Monitor](https://github.com/0xbythesecond/Azure-Monitor) 
 
  </details>   
  
