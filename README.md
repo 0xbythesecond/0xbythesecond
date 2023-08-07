@@ -1,7 +1,7 @@
-## Hi, I'm 0xbythesecond, an **IT Professional**
+### Hi, I'm 0xbythesecond, an **IT Professional**
 
 
-### 👨‍💻 Information Technology Projects:
+## 👨‍💻 Information Technology Projects:
 <details open>
 <summary><img width="150" alt="Ost Ticket Logo" src="https://github.com/0xbythesecond/0xbythesecond/assets/23303634/ff860958-dce6-4a33-bd35-34c697e006e4"/></summary>
 	
@@ -32,7 +32,7 @@
 <details open>
 <summary><img width="100" alt="Vulnerability Management" src="https://github.com/0xbythesecond/0xbythesecond/assets/23303634/25ac4b8e-1c46-4b43-9d5a-0b43aaa3986e"/></summary>
 	
-### Vulnerability Management Project:
+## Vulnerability Management Project:
   - [OpenVAS Vulnerability Project](https://github.com/0xbythesecond/OpenVAS-Project)
 </details>
 
