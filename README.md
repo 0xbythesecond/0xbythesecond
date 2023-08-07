@@ -55,11 +55,11 @@
 
 ### ⚒️ Languages and Tools 
 <img align="left" alt="azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-<img align="left" alt="linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="html" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-<img align="left" alt="css" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img align="left" alt="javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 	
 
 
@@ -76,11 +76,9 @@
 
   
 ### 📊Stats
+![Profile views](https://komarev.com/ghpvc/?username=your-github-0xbythesecond&style=flat-square&color=orange)
 
-![0xbythesecond's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xbythesecond&show_icons=true&theme=transparent)  
-<!--![0xbythesecond's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xbythesecond&show_icons=true&theme=radical)-->
-	
-<!--![Profile views](https://gpvc.arturio.dev/0xbythesecond)-->
+![0xbythesecond's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xbythesecond&show_icons=true&theme=transparent)
 
 #
 
