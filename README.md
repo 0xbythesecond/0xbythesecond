@@ -42,8 +42,6 @@
 <details closed>
  <summary><h3> 👨‍💼 I am a work in process</h3></summary>
  
-
-- 🎓 I’m a graduate of the `Course Careers` Information Technology course
 - 👯 I’m looking to collaborate with `like-minded persons.`
 - 🤔 I’m looking for help with `tech-related portfolio and building projects.`
 - 🧠 Continuously learning `Azure, Linux, HTML, CSS, and Javascript.`
@@ -83,5 +81,6 @@
 
 #
 
+</details>
 
 <!--**0xbythesecond/0xbythesecond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
