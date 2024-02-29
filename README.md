@@ -28,13 +28,6 @@
   - [Azure Monitor](https://github.com/0xbythesecond/Azure-Monitor) 
 
  </details>   
- 
-<details open>
-<summary><img width="100" alt="Vulnerability Management" src="https://github.com/0xbythesecond/0xbythesecond/assets/23303634/25ac4b8e-1c46-4b43-9d5a-0b43aaa3986e"/></summary>
-	
-## Vulnerability Management Project:
-  - [OpenVAS Vulnerability Project](https://github.com/0xbythesecond/OpenVAS-Project)
-</details>
 
 ## Packet Tracer Labs
 <details open>
@@ -44,6 +37,18 @@
   - [Simple Network](https://github.com/0xbythesecond/Create-Simple-Network/)
     
 </details>
+
+## Vulnerability Management Project:	
+<details open>
+	
+
+<summary><img width="100" alt="Vulnerability Management" src="https://github.com/0xbythesecond/0xbythesecond/assets/23303634/25ac4b8e-1c46-4b43-9d5a-0b43aaa3986e"/></summary>
+	
+
+  - [OpenVAS Vulnerability Project](https://github.com/0xbythesecond/OpenVAS-Project)
+</details>
+
+
 
 
 
