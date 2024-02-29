@@ -36,6 +36,15 @@
   - [OpenVAS Vulnerability Project](https://github.com/0xbythesecond/OpenVAS-Project)
 </details>
 
+## Packet Tracer Labs
+<details open>
+<summary><img width="100" alt="packet tracer logo" src="https://github.com/0xbythesecond/0xbythesecond/assets/23303634/ed82a8aa-d2cd-4c89-8c2d-5f6a5be48a93"/>
+</summary>
+	
+  - [Simple Network](https://github.com/0xbythesecond/Create-Simple-Network/)
+    
+</details>
+
 
 
 
