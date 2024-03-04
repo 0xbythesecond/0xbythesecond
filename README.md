@@ -35,7 +35,7 @@
 </summary>
 	
   - [Simple Network](https://github.com/0xbythesecond/Create-Simple-Network/)
-  - [Settings Up A VLAN](https://github.com/0xbythesecond/Setting_Up_VLAN/)  
+  - [Setting Up A VLAN](https://github.com/0xbythesecond/Setting_Up_VLAN/)  
 </details>
 
 ## Vulnerability Management Project:	
